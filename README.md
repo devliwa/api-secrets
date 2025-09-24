@@ -1,4 +1,7 @@
 # api-secrets
+<img width="1300" height="664" alt="Screenshot 2025-09-23 at 6 51 39 PM" src="https://github.com/user-attachments/assets/f848d81e-c57a-492a-9f38-2d2786f48a8b" />
+
+
 ```
 
 1. Import express and axios
