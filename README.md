@@ -1,16 +1,16 @@
 # api-secrets
 ```
-// HINTS:
-// 1. Import express and axios
 
-// 2. Create an express app and set the port number.
+1. Import express and axios
 
-// 3. Use the public folder for static files.
+2. Create an express app and set the port number.
 
-// 4. When the user goes to the home page it should render the index.ejs file.
+3. Use the public folder for static files.
 
-// 5. Use axios to get a random secret and pass it to index.ejs to display the
-// secret and the username of the secret.
+4. When the user goes to the home page it should render the index.ejs file.
 
-// 6. Listen on your predefined port and start the server.
+5. Use axios to get a random secret and pass it to index.ejs to display the
+secret and the username of the secret.
+
+6. Listen on your predefined port and start the server.
 ```
